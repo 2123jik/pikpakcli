@@ -4,7 +4,7 @@
 $interval = 1
 
 # 已处理磁链的存储文件路径
-$magnetHandledFile = "C:\Users\20460\repo\pikpakcli\handled-magnets.txt"
+$magnetHandledFile = ".\handled-magnets.txt"
 
 # 检测磁链的正则表达式
 $magnetRegex = "^magnet:\?"
